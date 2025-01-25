@@ -1,0 +1,5 @@
+name = input("Enter your name")
+department = str(input("enter your depertment"))
+upper_department = department.upper()
+sorted_name = name.capitalize()
+print(f"Hello {sorted_name} from {upper_department}")
